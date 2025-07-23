@@ -20,4 +20,4 @@ Write a Python script that performs the following:
 
 ## ⚙️ Setup Instruct
 
-- docker-compose up run
+`docker-compose up run`
