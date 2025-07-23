@@ -14,8 +14,6 @@ Write a Python script that performs the following:
 - 🗃️ Unzips each file to extract the `.csv` inside.
 - 🧹 Deletes the ZIP file after extraction.
 - ⚠️ Handles invalid or broken URLs gracefully.
-- ⭐ *(Bonus)*: Try using `aiohttp` for async downloads, `ThreadPoolExecutor` for parallelization, and write unit tests.
-
 ---
 
 ## ⚙️ Setup Instruct
